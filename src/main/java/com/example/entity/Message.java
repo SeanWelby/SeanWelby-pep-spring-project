@@ -2,11 +2,7 @@ package com.example.entity;
 
 import javax.persistence.*;
 
-/**
- * This is a class that models a Message.
- *
- * You should NOT make any modifications to this class.
- */
+
 @Entity
 @Table(name="message")
 public class Message {
